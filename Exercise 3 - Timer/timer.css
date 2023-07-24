@@ -1,6 +1,8 @@
 #myTimer {
+    background-color: blanchedalmond;
     display: flex;
     gap: 20px;
+    padding: 30px;
     
 }
 
@@ -28,7 +30,7 @@
     align-self: center;
 }
 .tm {
-    font-size: 64px;
+    font-size: 20px;
     border: black;
     display: none;
 }
