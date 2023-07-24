@@ -5,7 +5,7 @@ const timeRem = document.querySelector(".tm");
 
 
 function startTimer(){
-    startBtn.style.display = "none";
+   // startBtn.style.display = "none";
     stopBtn.styles.display = "block";
     forms.styles.display = "none";
     timeRem.styles.display = "block"
